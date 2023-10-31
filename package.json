@@ -4,8 +4,7 @@
   "description": "Doctor appointment website",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "build": "react-scripts build"
+    "start": "node server.js"
   },
   "author": "Avinash905",
   "license": "ISC",
