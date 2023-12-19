@@ -125,5 +125,5 @@ REACT_APP_CLOUDINARY_PRESET=YOUR_OWN_CLOUDINARY_PRESET
 
 ### Connect with me :
 
-<a href="https://www.linkedin.com/in/charulshaharey/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt=" | LinkedIn" height="35" width="35" /></a>
+<a href="https://www.linkedin.com/in/nitesh-meena-2512a6212/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt=" | LinkedIn" height="35" width="35" /></a>
 
