@@ -4,7 +4,7 @@ mongoose.set("strictQuery", false);
 require("dotenv").config();
 
 const client = mongoose
-  .connect(process.env.MONGODB_URL, {
+  .connect(process.env.MONGO_URL, {
     useNewUrlParser: true,
   })
   .then(() => {
